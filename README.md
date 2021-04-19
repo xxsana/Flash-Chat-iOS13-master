@@ -1,4 +1,11 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
+This is a project that I've learned taking Angela Yu's iOS Academy of Udemy. It deals with Cocoapods, Firebase, UITableView and Navigation Controller.
+
+
+
+
+
+
 
 # Flash-Chat
 
